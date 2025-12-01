@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Мій сайт</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Привіт! Це мій сайт</h1>
+<p>Сайт працює на HTML, CSS і JavaScript.</p>
+
+<script src="script.js"></script>
+</body>
+</html>
